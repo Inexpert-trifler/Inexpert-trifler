@@ -18,23 +18,67 @@
 
 ---
 
-### 🧠 SYSTEM.LOG
-```diff
-+ Name: Saransh Yadav
-+ Status: Learning & Building 🚀
-+ Role: Developer
-+ Mindset: "Build First, Learn Always"
-🛠 TECH STACK.exe
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,git,github&theme=dark" /> </p>
-⚡ PERFORMANCE STATS
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Inexpert-trifler&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Inexpert-trifler&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inexpert-trifler&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-📡 ACTIVITY MATRIX
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inexpert-trifler&theme=tokyo-night&hide_border=true"/> </p>
-🌐 CONNECT
-<p align="center"> <a href="https://www.linkedin.com/in/saransh-yadav-b72643336/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> </p>
-🐍 SYSTEM SNAKE
-<p align="center"> <img src="https://github.com/Inexpert-trifler/Inexpert-trifler/blob/output/github-contribution-grid-snake.svg"/> </p>
-💬 RANDOM DEV QUOTE
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/> </p>
-<h2 align="center">⚡ "I DON'T FOLLOW TUTORIALS, I BUILD PROJECTS." ⚡</h2> ```
+### 🧠 About Me
+- 🎯 First-year student building real-world projects  
+- 🚀 Active in hackathons  
+- 💻 Skilled in Java, C, C++, HTML, CSS, JavaScript  
+- ⚡ I learn by building  
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,git,github&theme=dark" />
+</p>
+
+---
+
+### ⚡ GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Inexpert-trifler&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Inexpert-trifler&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inexpert-trifler&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inexpert-trifler&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/saransh-yadav-b72643336/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Inexpert-trifler/Inexpert-trifler/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+### 💬 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+</p>
+
+---
+
+<h2 align="center">⚡ "I DON'T FOLLOW TUTORIALS, I BUILD PROJECTS." ⚡</h2>
