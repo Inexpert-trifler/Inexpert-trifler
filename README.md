@@ -8,15 +8,6 @@
 
 ---
 
-### 🧠 TERMINAL ACCESS
-
-<pre>
-> initializing user...
-> loading profile...
-> access granted ✔
-</pre>
-
----
 
 ### ⚡ LIVE SYSTEM STATUS
 
@@ -46,6 +37,50 @@ mindset     : "Execute > Watch Tutorials"
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,git,github&theme=dark" />
 </p>
+
+---
+
+### 💻 PROJECT DASHBOARD
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Portfolio Website  
+- 🌐 Personal portfolio  
+- ⚡ Built with HTML, CSS, JS  
+- 🔗 Add your link  
+
+</td>
+<td width="50%">
+
+### 🧠 Hackathon Project  
+- 💡 Your SIH / Hackathon idea  
+- ⚙️ Real-world problem solving  
+- 🔗 Add repo link  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔗 Blockchain Project  
+- ⛓️ Smart contract / idea  
+- 🚀 Innovation focused  
+- 🔗 Add link  
+
+</td>
+<td width="50%">
+
+### ⚙️ Java Project  
+- 💻 Core Java logic  
+- 🧠 Problem solving  
+- 🔗 Add link  
+
+</td>
+</tr>
+</table>
 
 ---
 
