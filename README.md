@@ -2,7 +2,7 @@
 <h3 align="center">🚀 First-Year Developer | Hackathon Enthusiast | Building Real Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Learner;Hackathon+Builder;Always+Learning+New+Tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Web+Developer;Hackathon+Builder;Always+Learning&center=true&width=500&height=45">
 </p>
 
 ---
@@ -10,54 +10,42 @@
 ### 🧠 About Me
 - 🎯 First-year student passionate about building real-world projects  
 - 🚀 Actively participating in hackathons  
-- 🌱 Currently learning: React, Blockchain, AI  
+- 💻 Skilled in Java, C, C++, HTML, CSS, JavaScript  
 - ⚡ I believe in learning by building  
 
 ---
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,react,git,github,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,git,github" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inexpert-trifler&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inexpert-trifler&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Inexpert-trifler&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inexpert-trifler&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🔥 What I'm Working On
-- 🧠 Hackathon projects  
-- 🌐 Portfolio website  
-- ⚙️ Improving problem-solving  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inexpert-trifler&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
 <p>
-  <a href="YOUR_LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/saransh-yadav-b72643336/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
 
-> "I don’t just learn tech, I build with it."
-
+### 🐍 Contribution Snake
 ![snake gif](https://github.com/Inexpert-trifler/Inexpert-trifler/blob/output/github-contribution-grid-snake.svg)
-<!--
-**Inexpert-trifler/Inexpert-trifler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "I don’t just learn tech, I build with it."
