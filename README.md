@@ -46,6 +46,7 @@
 
 > "I don’t just learn tech, I build with it."
 
+![snake gif](https://github.com/Inexpert-trifler/Inexpert-trifler/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Inexpert-trifler/Inexpert-trifler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
