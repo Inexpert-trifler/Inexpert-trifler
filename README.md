@@ -1,38 +1,25 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3000&color=00FF00&center=true&vCenter=true&width=900&height=60&lines=BOOTING+SYSTEM...;LOADING+MODULES...;ACCESSING+SARANSH.exe;DEVELOPER+MODE+ACTIVATED;WELCOME+TO+MY+GITHUB+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&color=7F3FBF&center=true&vCenter=true&width=900&height=60&lines=Saransh+Yadav;Building+Cool+Things;Hackathon+Developer;Always+Learning+⚡" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=120&section=header&text=SYSTEM%20ONLINE&fontColor=00FF00&fontSize=30&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=120&section=header&text=DEVELOPER%20PROFILE&fontColor=ffffff&fontSize=30&animation=fadeIn"/>
 </p>
 
 ---
 
-
-### ⚡ LIVE SYSTEM STATUS
+### 🧠 About Me
 
 <pre>
-[██████████] 100%  SYSTEM READY
-[████████░░] 80%   CODING MODE
-[██████░░░░] 60%   LEARNING AI
-[█████████░] 90%   BUILDING PROJECTS
+> name      : Saransh Yadav
+> role      : Developer
+> focus     : Building real-world projects
+> mindset   : Learn → Build → Repeat
 </pre>
 
 ---
 
-### 🧾 USER CONFIG
-
-<pre>
-user        : Saransh Yadav
-role        : Developer
-experience  : Beginner → Growing Fast
-focus       : Building Real Projects
-mindset     : "Execute > Watch Tutorials"
-</pre>
-
----
-
-### ⚙️ TECH STACK
+### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,git,github&theme=dark" />
@@ -40,78 +27,38 @@ mindset     : "Execute > Watch Tutorials"
 
 ---
 
-### 💻 PROJECT DASHBOARD
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Portfolio Website  
-- 🌐 Personal portfolio  
-- ⚡ Built with HTML, CSS, JS  
-- 🔗 Add your link  
-
-</td>
-<td width="50%">
-
-### 🧠 Hackathon Project  
-- 💡 Your SIH / Hackathon idea  
-- ⚙️ Real-world problem solving  
-- 🔗 Add repo link  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔗 Blockchain Project  
-- ⛓️ Smart contract / idea  
-- 🚀 Innovation focused  
-- 🔗 Add link  
-
-</td>
-<td width="50%">
-
-### ⚙️ Java Project  
-- 💻 Core Java logic  
-- 🧠 Problem solving  
-- 🔗 Add link  
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 SYSTEM METRICS
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Inexpert-trifler&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Inexpert-trifler&theme=chartreuse-dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Inexpert-trifler&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Inexpert-trifler&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inexpert-trifler&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 📡 ACTIVITY MONITOR
+### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inexpert-trifler&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inexpert-trifler&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 NETWORK CONNECTION
+### 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saransh-yadav-b72643336/">
-    <img src="https://img.shields.io/badge/LINKEDIN-ONLINE-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>
 
 ---
 
-### 🐍 BACKGROUND PROCESS
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/Inexpert-trifler/Inexpert-trifler/blob/output/github-contribution-grid-snake.svg"/>
@@ -119,18 +66,10 @@ mindset     : "Execute > Watch Tutorials"
 
 ---
 
-### 💬 SYSTEM OUTPUT
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer"/>
-</p>
-
----
-
-<h2 align="center">⚡ SYSTEM STABLE — READY TO BUILD ⚡</h2>
+<h2 align="center">⚡ Build. Learn. Repeat. ⚡</h2>
