@@ -1,84 +1,81 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=Saransh+Yadav;Code.+Build.+Repeat.;Future+Software+Engineer;Hackathon+Warrior+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=35&duration=3000&color=00FF00&center=true&vCenter=true&width=900&height=60&lines=BOOTING+SYSTEM...;ACCESSING+SARANSH.exe;INITIALIZING+DEVELOPER+MODE...;WELCOME+TO+MY+GITHUB+⚡" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
-</p>
-
-<h3 align="center">⚡ First-Year Developer | 🚀 Hackathon Enthusiast | 💻 Builder Mindset</h3>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Inexpert-trifler&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Inexpert-trifler?label=FOLLOWERS&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Building%20Projects-00f7ff?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=120&section=header&text=SYSTEM%20INITIALIZED&fontColor=00FF00&fontSize=30&animation=fadeIn"/>
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎯 First-year student building real-world projects  
-- 🚀 Active in hackathons  
-- 💻 Skilled in Java, C, C++, HTML, CSS, JavaScript  
-- ⚡ I learn by building  
+### 🧠 TERMINAL.LOG
+
+<p>
+<pre>
+> user: Saransh Yadav
+> role: Developer
+> status: Learning | Building | Evolving
+> mindset: "No tutorials. Only execution."
+</pre>
+</p>
 
 ---
 
-### 🛠 Tech Stack
+### ⚙️ SYSTEM SKILLS
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,git,github&theme=dark" />
 </p>
 
 ---
 
-### ⚡ GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Inexpert-trifler&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Inexpert-trifler&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 SYSTEM METRICS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inexpert-trifler&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Inexpert-trifler&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Inexpert-trifler&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-### 📈 Activity Graph
+### 📡 ACTIVITY FEED
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inexpert-trifler&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Inexpert-trifler&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 NETWORK CONNECT
+
 <p align="center">
   <a href="https://www.linkedin.com/in/saransh-yadav-b72643336/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 SYSTEM PROCESS
+
 <p align="center">
   <img src="https://github.com/Inexpert-trifler/Inexpert-trifler/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-### 💬 Dev Quote
+### 💬 RANDOM OUTPUT
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=120&section=footer"/>
 </p>
 
 ---
 
-<h2 align="center">⚡ "I DON'T FOLLOW TUTORIALS, I BUILD PROJECTS." ⚡</h2>
+<h2 align="center">⚡ ACCESS GRANTED ⚡</h2>
